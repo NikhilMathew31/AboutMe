@@ -6,7 +6,7 @@
 -  I'm currently pursuing Master of Computer Applications under KTU at Lourdes Matha College of Science and Technology, Kuttichal. And also I'm graduated👨‍🎓 on BCA under Kerala University.
 </p>
 
--  I’m currently learning Web Development technologies in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" /> and its frameworks and Databases (MongoDB).
+-  I’m currently learning Web Development technologies in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" /> and its frameworks and Databases (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="js" width="25" height="25" />).
 
 - :fountain_pen: I like to make customised responsive webpages and user interfaces.
 <hr>
@@ -29,7 +29,7 @@
 ## Lets Connect
 
 [![Gmail Badge](https://img.shields.io/badge/-work.nikhilmathew@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.nikhilmathew@gmail.com)](mailto:work.nikhilmathew@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-nikhil-a-mathew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-a-mathew/)](https://www.linkedin.com/in/nikhil-a-mathew/)
+[![Linkedin Badge](https://img.shields.io/badge/-nikhilamathew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-a-mathew/)](https://www.linkedin.com/in/nikhil-a-mathew/)
 
 <hr>
 
