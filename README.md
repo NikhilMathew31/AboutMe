@@ -1,11 +1,11 @@
 <h2> Hello there👋</h2>
 
-I'm Nikhil A Mathew. I'm Living in Trivandrum, Kerala. <br>
+I'm <b>Nikhil A Mathew</b>. I'm Living in Trivandrum, Kerala. <br><br>
 🎓  I'm currently a student pursuing my Master of Computer Applications under KTU and graduated on Bachelor of Computer Applications. <br>
-💻  I like to make customised responsive webpages and user interfaces. <br>
+💻  I like to make creative responsive webpages and user interfaces. <br>
 🌱  Currently, learning Web Development technologies in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" /> and its frameworks and Some basics of <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" /> <br>
 
-- 
+
 
 ## Language and Tools
 
