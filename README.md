@@ -6,7 +6,7 @@
 -  I'm currently pursuing Master of Computer Applications under KTU at Lourdes Matha College of Science and Technology, Kuttichal. And also I'm graduated👨‍🎓 on BCA under Kerala University.
 </p>
 
--  I’m currently learning Web Development technologies in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" /> and its frameworks and Databases (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="js" width="25" height="25" />).
+-  I’m currently learning Web Development technologies in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="25" height="25" /> and its frameworks and Databases <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="js" width="25" height="25" />.
 
 - :fountain_pen: I like to make customised responsive webpages and user interfaces.
 <hr>
