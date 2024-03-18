@@ -29,7 +29,7 @@
 ## Lets Connect
 
 [![Gmail Badge](https://img.shields.io/badge/-work.nikhilmathew@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work.nikhilmathew@gmail.com)](mailto:work.nikhilmathew@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Nikhil%20A%20mathew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-a-mathew/)](https://www.linkedin.com/in/nikhil-a-mathew/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nikhil%20A%20Mathew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-a-mathew/)](https://www.linkedin.com/in/nikhil-a-mathew/)
 
 <hr>
 
