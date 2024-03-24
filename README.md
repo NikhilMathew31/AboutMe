@@ -1,6 +1,6 @@
 <h2> Hello World!!👋</h2>
 
-I'm <b>Nikhil A Mathew</b>. I live in Trivandrum, where I design the future. <br><br>
+I'm Nikhil A Mathew. I live in Trivandrum, where I design the future. <br><br>
 🎓  I'm currently a student pursuing my Master of Computer Applications. I'm always looking for new challenges and opportunities to grow as a developer. <br>
 💻  I like to make creative responsive webpages and user interfaces. <br>
 🌱  Currently, I'm learning web development technologies in <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="25" height="25" /> and some basics of <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="25" height="25" /> <br>
